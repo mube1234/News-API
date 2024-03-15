@@ -5,4 +5,4 @@ You only need to complete three steps to use the News API Lite.
 ### 1. Request an API Key
 * Go to the News API web page.
 * Enter your email to receive your API key.
-! (https://camo.githubusercontent.com/f15e52caebf4961b7a568adf97013be43415e955197048aa22b96d342dc081f4/68747470733a2f2f7765627a2e696f2f77702d636f6e74656e742f75706c6f6164732f323032342f30332f46697273742d626f782e706e67)
+![IMAGE](https://camo.githubusercontent.com/f15e52caebf4961b7a568adf97013be43415e955197048aa22b96d342dc081f4/68747470733a2f2f7765627a2e696f2f77702d636f6e74656e742f75706c6f6164732f323032342f30332f46697273742d626f782e706e67)
