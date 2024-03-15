@@ -5,6 +5,7 @@ You only need to complete three steps to use the News API Lite.
 ### 1. Request an API Key
 * Go to the [News API web page](https://webz.io/products/news-api#lite).
 * Enter your email to receive your API key.
+  
 ![IMAGE1](https://camo.githubusercontent.com/f15e52caebf4961b7a568adf97013be43415e955197048aa22b96d342dc081f4/68747470733a2f2f7765627a2e696f2f77702d636f6e74656e742f75706c6f6164732f323032342f30332f46697273742d626f782e706e67)
 ### 2. Make an API Request
 Use the API key provided to make your first call to the API. Make sure you also specify a search term in the request. For example, the following API request will return news articles related to the search term “Bitcoin.” The default time frame is 3 days, but you can set this to up to 30 days.
